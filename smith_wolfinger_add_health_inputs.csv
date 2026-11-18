@@ -1,0 +1,4 @@
+group,estimated_premarital_nonspousal_partners,exponentiated_estimate,n_total_later_marriers,chart_label,source,source_location
+Reference,0,1.0,3506,0 nonspousal\npartners (reference),https://pmc.ncbi.nlm.nih.gov/articles/PMC10989935/,"Table 4 Model 3, later-marriage sample"
+1–8 partners,1–8,1.64,3506,1–8 nonspousal\npartners,https://pmc.ncbi.nlm.nih.gov/articles/PMC10989935/,"Table 4 Model 3, later-marriage sample"
+9+ partners,9+,3.2,3506,9+ nonspousal\npartners,https://pmc.ncbi.nlm.nih.gov/articles/PMC10989935/,"Table 4 Model 3, later-marriage sample"

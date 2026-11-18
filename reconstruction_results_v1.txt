@@ -1,0 +1,38 @@
+PAIR BONDING: REPRODUCED NUMERICAL AUDIT (v1)
+Based only on manually transcribed published summary statistics; not an individual-level replication.
+
+HARDEN (2014), TABLE 1 CONTINUED — 18 DISPLAYED ROWS
+Count: 18; min h²: 0%; max h²: 65%
+h² <30%: 4; 30–60% inclusive: 13; h² >60%: 1
+Risky sexual behavior: h²=34%, c²=28%
+Mean h² across these heterogeneous rows: deliberately not calculated (not a meta-analysis).
+
+KAHN & LONDON (1991), TABLES 3 AND 4
+Approximate normal-theory 95% confidence intervals, not author-provided intervals:
+  First 5 years · ordinary probit: coefficient -0.601; SE 0.078; 95% approx CI [-0.754, -0.448]
+  First 5 years · bivariate probit: coefficient -0.511; SE 0.514; 95% approx CI [-1.518, +0.496]
+  Years 5–10 · ordinary probit: coefficient -0.402; SE 0.098; 95% approx CI [-0.594, -0.210]
+  Years 5–10 · bivariate probit: coefficient -0.274; SE 0.842; 95% approx CI [-1.924, +1.376]
+First five years: bivariate/ordinary SE ratio = 6.59x
+Years five–ten: bivariate/ordinary SE ratio = 8.59x
+Reported residual error correlations: -0.054 (first five years); -0.079 (years five–ten).
+These correlations were reported as statistically nonsignificant.
+Coefficient sign: negative for virgin at marriage versus nonvirgin.
+Loss of statistical significance DOES NOT prove a zero effect or that selection explained the association.
+
+SMITH & WOLFINGER (2024), TABLE 4 MODEL 3
+  Reference: 1.00
+  1–8 partners: 1.64
+  9+ partners: 3.20
+This is an adjusted association in the later-marrying Add Health subsample (N=3506).
+Reference is zero prior nonspousal partners; groups are estimated, partly data-driven.
+No absolute risk or causal inference follows from these point estimates.
+
+ARMSTRONG ET AL. (2012), FIGURE 1
+  First hookup: 11%
+  Second or third hookup: 16%
+  Later hookups: 34%
+  Relationship sex: 67%
+
+Figure 1 is conceptual, not fitted to empirical data.
+Generated figures are reconstructions from article-level published numbers, not replication of original analyses.

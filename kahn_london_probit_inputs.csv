@@ -1,0 +1,5 @@
+period,model,coefficient,standard_error,n,chart_label,source,source_location
+First 5 years,ordinary probit,-0.601,0.078,2746,First 5 years · ordinary probit,https://doi.org/10.2307/352992,Table 3 Model 3
+First 5 years,bivariate probit,-0.511,0.514,2746,First 5 years · bivariate probit,https://doi.org/10.2307/352992,Table 4
+Years 5–10,ordinary probit,-0.402,0.098,1562,Years 5–10 · ordinary probit,https://doi.org/10.2307/352992,Table 3 Model 6
+Years 5–10,bivariate probit,-0.274,0.842,1562,Years 5–10 · bivariate probit,https://doi.org/10.2307/352992,Table 4
